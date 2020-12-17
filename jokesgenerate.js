@@ -9,6 +9,7 @@ function generateJokes() {
 var sozler = [
   "Çok iyi ya",
   "Reyiz",
+  "Bu kadar",
   "Yav kardeşim",
   "Ne demek yok",
   "Bizde baharat olmaz,herşey sade",
