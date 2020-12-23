@@ -25,6 +25,6 @@ var sozler = [
   "Ben 24 saat çalışırım",
   "Hamburger mi diyosun İsmail.",
   "Yani bence öyle.",
-  "Repository pattern ne olm. Öyle bir standart yok."
+  "Repository pattern ne olm. Öyle bir standart yok.",
   "Cumartesi de gelebiliriz."
 ];
